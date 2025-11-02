@@ -1,1 +1,1 @@
-# BlackScholesOptionPricer
+# Black Scholes Option Pricer
